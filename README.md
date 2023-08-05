@@ -1,6 +1,6 @@
 ### Hi there 👋
 My personal repository.<br>
-- 💫 I'm a front-end developers.<br> 
+- 💫 I'm a front-end developer.<br> 
 - 💻 I’ve huge passion for Web development and UI/UX.<br>
 - 📫 How to reach me: Betoolhamadd@gmail.com
 
